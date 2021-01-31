@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toggle Button</string>
+    <string name="HideSeek">Hide and Seek</string>
+    <string name="Peek">peek a boo!</string>
+</resources>
